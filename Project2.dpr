@@ -2,13 +2,14 @@ program Project2;
 
 uses
   Vcl.Forms,
-  Unit2 in 'Unit2.pas' {Form2};
+  Verables in 'Verables.pas' {Form2},
+  functions in 'functions.pas' {Form1};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm2, Form2);
+  Application.CreateForm(TForm1, Form1);
   Application.Run;
 end.

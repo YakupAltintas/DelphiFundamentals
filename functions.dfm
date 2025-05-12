@@ -1,0 +1,38 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Anasayfa'
+  ClientHeight = 441
+  ClientWidth = 624
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Button1: TButton
+    Left = 168
+    Top = 136
+    Width = 75
+    Height = 25
+    Caption = 'Button1'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object EditSayi1: TEdit
+    Left = 144
+    Top = 72
+    Width = 121
+    Height = 23
+    TabOrder = 1
+    Text = 'EditSayi1'
+  end
+  object EditSayi2: TEdit
+    Left = 144
+    Top = 101
+    Width = 121
+    Height = 23
+    TabOrder = 2
+  end
+end

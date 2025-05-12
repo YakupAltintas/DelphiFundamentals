@@ -1,10 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.433,=D:\Delphi\ProjectFirst\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\Unit1.pas=D:\Delphi\ProjectFirst\functions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.075,=D:\Delphi\Unit2.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.595,=D:\Delphi\Unit2.pas</Transaction>
-    <Transaction>2025.03.14 10:35:47.075,=D:\Delphi\Unit2.pas</Transaction>
-    <Transaction>2025.03.14 10:36:30.904,D:\Delphi\ProjectFirst\Unit2.pas=D:\Delphi\Unit2.pas</Transaction>
-    <Transaction>2025.03.14 10:36:30.904,D:\Delphi\ProjectFirst\Unit2.dfm=D:\Delphi\Unit2.dfm</Transaction>
-    <Transaction>2025.03.14 12:31:06.424,D:\Delphi\ProjectFirst\Project2.dproj=D:\Delphi\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,D:\Delphi\ProjectFirst\Project2.dproj=D:\Delphi\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\ProjectFirst\Unit2.dfm=D:\Delphi\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\Unit1.dfm=D:\Delphi\ProjectFirst\functions.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\ProjectFirst\Unit2.pas=D:\Delphi\Unit2.pas</Transaction>
+    <Transaction>2025.05.11 20:35:20.624,D:\Delphi\ProjectFirst\Verables.pas=D:\Delphi\ProjectFirst\Unit2.pas</Transaction>
+    <Transaction>2025.05.11 20:35:20.624,D:\Delphi\ProjectFirst\Verables.dfm=D:\Delphi\ProjectFirst\Unit2.dfm</Transaction>
   </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
