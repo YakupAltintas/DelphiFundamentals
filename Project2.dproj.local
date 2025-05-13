@@ -1,26 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.624,D:\Delphi\ProjectFirst\Unit2.pas=D:\Delphi\ProjectFirst\Verables.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\functions.dfm=D:\Delphi\ProjectFirst\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.624,D:\Delphi\ProjectFirst\Unit2.dfm=D:\Delphi\ProjectFirst\Verables.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\Unit1.pas=D:\Delphi\ProjectFirst\functions.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.433,=D:\Delphi\ProjectFirst\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\Unit2.pas=D:\Delphi\ProjectFirst\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.595,=D:\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\Unit1.dfm=D:\Delphi\ProjectFirst\functions.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,D:\Delphi\ProjectFirst\if_else.pas=D:\Delphi\ProjectFirst\if_else_casepas.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,D:\Delphi\ProjectFirst\if_else.dfm=D:\Delphi\ProjectFirst\if_else_casepas.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,D:\Delphi\ProjectFirst\Verables.dfm=D:\Delphi\ProjectFirst\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,D:\Delphi\ProjectFirst\Unit3.dfm=D:\Delphi\ProjectFirst\if_else.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,D:\Delphi\ProjectFirst\Unit4.pas=D:\Delphi\ProjectFirst\loops.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,=D:\Delphi\ProjectFirst\Unit4.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.075,=D:\Delphi\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.775,D:\Delphi\ProjectFirst\functions.pas=D:\Delphi\ProjectFirst\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.424,D:\Delphi\Project2.dproj=D:\Delphi\ProjectFirst\Project2.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\Unit2.dfm=D:\Delphi\ProjectFirst\Unit2.dfm</Transaction>
-    <Transaction>2025.05.12 20:08:31.779,=D:\Delphi\ProjectFirst\Unit3.pas</Transaction>
-    <Transaction>2025.05.12 20:09:04.308,D:\Delphi\ProjectFirst\if_else.pas=D:\Delphi\ProjectFirst\Unit3.pas</Transaction>
-    <Transaction>2025.05.12 20:09:04.308,D:\Delphi\ProjectFirst\if_else.dfm=D:\Delphi\ProjectFirst\Unit3.dfm</Transaction>
-    <Transaction>2025.05.12 20:47:13.125,D:\Delphi\ProjectFirst\if_else_casepas.pas=D:\Delphi\ProjectFirst\if_else.pas</Transaction>
-    <Transaction>2025.05.12 20:47:13.125,D:\Delphi\ProjectFirst\if_else_casepas.dfm=D:\Delphi\ProjectFirst\if_else.dfm</Transaction>
-    <Transaction>2025.05.12 20:47:20.810,D:\Delphi\ProjectFirst\if_else_case.pas=D:\Delphi\ProjectFirst\if_else_casepas.pas</Transaction>
-    <Transaction>2025.05.12 20:47:20.810,D:\Delphi\ProjectFirst\if_else_case.dfm=D:\Delphi\ProjectFirst\if_else_casepas.dfm</Transaction>
-    <Transaction>2025.05.12 21:47:21.844,=D:\Delphi\ProjectFirst\Unit4.pas</Transaction>
-    <Transaction>2025.05.12 21:47:32.909,D:\Delphi\ProjectFirst\loops.pas=D:\Delphi\ProjectFirst\Unit4.pas</Transaction>
-    <Transaction>2025.05.12 21:47:32.909,D:\Delphi\ProjectFirst\loops.dfm=D:\Delphi\ProjectFirst\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,=D:\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,D:\Delphi\ProjectFirst\if_else_casepas.pas=D:\Delphi\ProjectFirst\if_else_case.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,D:\Delphi\ProjectFirst\if_else_casepas.dfm=D:\Delphi\ProjectFirst\if_else_case.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.624,D:\Delphi\ProjectFirst\Verables.pas=D:\Delphi\ProjectFirst\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,D:\Delphi\ProjectFirst\Unit3.pas=D:\Delphi\ProjectFirst\if_else.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=D:\Delphi\ProjectFirst\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\ProjectFirst\Unit2.dfm=D:\Delphi\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.904,D:\Delphi\ProjectFirst\Unit2.pas=D:\Delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,D:\Delphi\ProjectFirst\Project2.dproj=D:\Delphi\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,D:\Delphi\ProjectFirst\Unit4.dfm=D:\Delphi\ProjectFirst\loops.dfm</Transaction>
+    <Transaction>2025.05.13 11:08:24.080,=D:\Delphi\ProjectFirst\Unit5.pas</Transaction>
+    <Transaction>2025.05.13 11:08:38.703,D:\Delphi\ProjectFirst\sets.dfm=D:\Delphi\ProjectFirst\Unit5.dfm</Transaction>
+    <Transaction>2025.05.13 11:08:38.703,D:\Delphi\ProjectFirst\sets.pas=D:\Delphi\ProjectFirst\Unit5.pas</Transaction>
+    <Transaction>2025.05.13 11:33:09.379,=D:\Delphi\ProjectFirst\Unit6.pas</Transaction>
+    <Transaction>2025.05.13 11:33:18.615,D:\Delphi\ProjectFirst\arrays.pas=D:\Delphi\ProjectFirst\Unit6.pas</Transaction>
+    <Transaction>2025.05.13 11:33:18.615,D:\Delphi\ProjectFirst\arrays.dfm=D:\Delphi\ProjectFirst\Unit6.dfm</Transaction>
   </Transactions>
 	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
