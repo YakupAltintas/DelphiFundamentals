@@ -1,0 +1,41 @@
+unit ClassArchitecture;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, csPersonel;
+
+type
+  TForm8 = class(TForm)
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form8: TForm8;
+  personel1: TPersonel;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm8.Button1Click(Sender: TObject);
+begin
+  try
+    personel1.Create; // sinifi baslatma methodu
+    personel1.pAd := 'Yakup';
+    personel1.pSoyad := 'Altintas';
+    personel1.pYas := 23;
+    ShowMessage(personel1.pAd + ' ' + personel1.pSoyad);
+  finally
+    personel1.Free;
+  end;
+end;
+
+end.

@@ -7,14 +7,16 @@ uses
   if_else_case in 'if_else_case.pas' {Form3},
   loops in 'loops.pas' {Form4},
   sets in 'sets.pas' {Form5},
-  arrays in 'arrays.pas' {Form6};
+  arrays in 'arrays.pas' {Form6},
+  records in 'records.pas' {Form7},
+  csPersonel in 'csPersonel.pas',
+  ClassArchitecture in 'ClassArchitecture.pas' {Form8};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm5, Form5);
-  Application.CreateForm(TForm6, Form6);
+  Application.CreateForm(TForm8, Form8);
   Application.Run;
 end.

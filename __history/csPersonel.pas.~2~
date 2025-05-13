@@ -1,0 +1,21 @@
+unit csPersonel;
+
+interface
+
+type
+  TPersonel = class(TObject)
+  public
+    pAd: string;
+    pSoyad: string;
+    pYas: string;
+    function tamAd(a:string): string;
+  end;
+
+implementation
+
+function TPersonel.tamAd(a:string): string;
+begin
+  Result := pAd + ' ' + pSoyad;
+end;
+
+end.
