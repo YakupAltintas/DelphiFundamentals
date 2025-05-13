@@ -27,8 +27,6 @@ implementation
 
 {$R *.dfm}
 
-uses arrays;
-
 procedure TForm1.Button1Click(Sender: TObject);
 begin
 
@@ -36,18 +34,9 @@ begin
     .ToString());
 end;
 
-
-//fonksiyonlar mutlaka bir deger donurur
 function TForm1.Toplama(sayi1, sayi2: Integer): Integer;
 begin
   Result := sayi1 + sayi2;
-end;
-
-//prosedurler void fonskiyon gibidir. Asla deger dondurmez.
-procedure arabaFari;
-begin
-ShowMessage('procdeure is running');
-
 end;
 
 end.
